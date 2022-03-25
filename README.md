@@ -9,7 +9,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Ana-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/946412500998557769/956989719198187620/git.gif.gif?width=582&height=586">
 </div>
   
   ##
