@@ -1,4 +1,4 @@
-### Oii eu sou a Ana Luiza!
+### 
 
 - 😄 Pronouns: ela/dela
 
